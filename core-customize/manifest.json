@@ -429,8 +429,7 @@
 	],
 	"tests": {
         "extensions": [
-            "kiwi",
-            "tiger"
+            "kiwi"
         ],
         "annotations": [
             "UnitTests",
